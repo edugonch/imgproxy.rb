@@ -1,5 +1,6 @@
 require "imgproxy/url_adapters/active_storage"
 require "imgproxy/url_adapters/active_storage_s3"
+require "imgproxy/url_adapters/active_storage_local"
 require "imgproxy/url_adapters/active_storage_gcs"
 
 require "imgproxy/url_adapters/shrine"
